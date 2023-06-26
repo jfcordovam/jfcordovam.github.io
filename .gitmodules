@@ -4,3 +4,6 @@
 [submodule "d3js"]
 	path = d3js
 	url = https://github.com/jfcordovam/d3js-game-of-life.git
+[submodule "d3_sunburst"]
+	path = d3_sunburst
+	url = https://github.com/jfcordovam/d3_sunburst.git
