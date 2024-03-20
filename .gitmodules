@@ -8,5 +8,5 @@
 	path = d3_sunburst
 	url = https://github.com/jfcordovam/d3_sunburst.git
 [submodule "germany_map"]
-	path = germany_map_d3
+	path = germany_map
 	url = https://github.com/jfcordovam/germany_map_d3
